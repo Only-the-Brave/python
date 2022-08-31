@@ -1,5 +1,4 @@
-#弹球游戏 by bigbigli_大李
-#微信公众号：大李日志
+
 
 import pygame as pg
 import sys
